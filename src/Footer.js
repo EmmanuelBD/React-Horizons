@@ -54,7 +54,7 @@ function Footer() {
                     <div className="col-md-4" style={{ backgroundColor: 'blue' }}>
                         <p className="footer-3">
                             One Airport Square, Airport City <br />
-                            8th Floor
+                            7th Floor
                         </p>
                     </div>
                     <div className="col-md-4" style={{ backgroundColor: 'blue' }}>
